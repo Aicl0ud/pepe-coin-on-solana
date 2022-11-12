@@ -1,1 +1,1 @@
-# pepe-coin-on-solana
+# solana-npx-client-template
